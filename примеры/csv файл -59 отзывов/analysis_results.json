@@ -1,0 +1,743 @@
+{
+  "model": "minimax/minimax-m2.5:free",
+  "total": 59,
+  "results": [
+    {
+      "row_id": 0,
+      "review": "It's a great game, great racing experience, takes time to master, and lots of fun once you get good, fast cars. The only problem is that getting good cars can be a long process unless you're willing to spend real money, and even then, there's a lot of grinding involved in order to obtain currency and get what you want",
+      "sentiment": "positive",
+      "topics": [
+        "gameplay",
+        "other"
+      ],
+      "summary": "Отличная игра с увлекательными гонками, но сложная система получения машин",
+      "confidence": 0.85,
+      "processed_at": "2026-05-15T13:58:54.507560"
+    },
+    {
+      "row_id": 1,
+      "review": "This game is amazing, but after a while of not playing it I came back to see a big difference in the ui, and it just makes everything slower, and also the way there's character animations now just kinda make it feel a bit more like a pubg ad at the end of races somehow, I don't really know what it is",
+      "sentiment": "neutral",
+      "topics": [
+        "graphics",
+        "other"
+      ],
+      "summary": "Игра хорошая, но изменения в интерфейсе и анимации персонажей ухудшили впечатление",
+      "confidence": 0.75,
+      "processed_at": "2026-05-15T13:59:15.123718"
+    },
+    {
+      "row_id": 2,
+      "review": "Super fun, and I really appreciate them keeping this updated and active despite there being a newer version. Controls are easy to make comfortable, fun and easy to play on both PC and mobile, relatively realistic with stats and physics to my knowledge. An interesting variety of maps and race types,",
+      "sentiment": "positive",
+      "topics": [
+        "controls",
+        "gameplay",
+        "other"
+      ],
+      "summary": "Отличная игра с удобным управлением и разнообразными картами",
+      "confidence": 0.95,
+      "processed_at": "2026-05-15T13:59:31.409359"
+    },
+    {
+      "row_id": 3,
+      "review": "Excellent game, high frame rate, no play limit, and menus are easy to navigate. I highly recommend this game for casual gamers. Just focus on getting a really fast car, and you will have adrenaline speed fun for hours! I wanted to rate this games 5 stars, but I don't like that alot of the cool cars are so expensive and hard to get",
+      "sentiment": "positive",
+      "topics": [
+        "performance",
+        "gameplay"
+      ],
+      "summary": "Отличная игра с высокой производительностью, но машины слишком дорогие",
+      "confidence": 0.85,
+      "processed_at": "2026-05-15T13:59:45.853047"
+    },
+    {
+      "row_id": 4,
+      "review": "Overall, this game is really well designed. The graphics are very realisitic and I love how you made Credits that are just like Coins. Maybe make some different tracks because it's boring just going on the same tracks. Also, can you make an update where you play like a parkour",
+      "sentiment": "positive",
+      "topics": [
+        "graphics",
+        "gameplay"
+      ],
+      "summary": "Игра хорошо сделана, графика реалистичная, но однообразие треков скучно.",
+      "confidence": 0.85,
+      "processed_at": "2026-05-15T14:07:16.616130"
+    },
+    {
+      "row_id": 5,
+      "review": "It's a a awesome game with an imaginative twist, actual cars with real upgrades makes it that much more enjoyable. So many tracks and bonus features, you can never get bored. The bonus features make it that much more possible to gain position against the feirce composition. Have Fun and don't be afraid",
+      "sentiment": "positive",
+      "topics": [
+        "gameplay"
+      ],
+      "summary": "Отличная игра с множеством трасс, бонусов и крутыми машинами",
+      "confidence": 0.95,
+      "processed_at": "2026-05-15T14:10:52.754513"
+    },
+    {
+      "row_id": 6,
+      "review": "This is one game I've been playing for a while. Very addictive lol! I would give it a solid five stars however, I can do without the freezes. Also it would be great if the timer for the boost didn't start before the race begins and stop after the race ends. It's kind of a rip off that the timer star",
+      "sentiment": "neutral",
+      "topics": [
+        "bugs",
+        "gameplay",
+        "performance"
+      ],
+      "summary": "Отличная затягивающая игра на пять звезд, но раздражают зависания и таймер",
+      "confidence": 0.8,
+      "processed_at": "2026-05-15T14:11:15.277174"
+    },
+    {
+      "row_id": 7,
+      "review": "With all the new improvements and class rework, I would say this game is worth getting. Its fun, action packed, and an overall amazing game. With it being compatible with keyboard, touch, or controller. I'd say this is pretty cross-platform. I will admit it can be very grinding heavy.",
+      "sentiment": "positive",
+      "topics": [
+        "gameplay",
+        "controls"
+      ],
+      "summary": "Отличная игра с удобным управлением, но много гринда.",
+      "confidence": 0.85,
+      "processed_at": "2026-05-15T14:11:32.123811"
+    },
+    {
+      "row_id": 8,
+      "review": "Between iOS and android ive been Playing Asphalt 8 for years. I would love to give this a 5 star review, but however cannot. My only issue are the Atrocious ads. I would love to pay for something if it were to permanently remove ads. I reached out to customer service through the app and was told that they cant help me",
+      "sentiment": "neutral",
+      "topics": [
+        "other"
+      ],
+      "summary": "Отличная игра, но навязчивая реклама портит впечатление",
+      "confidence": 0.85,
+      "processed_at": "2026-05-15T14:12:04.745091"
+    },
+    {
+      "row_id": 9,
+      "review": "I used to think this was a good game, now I'm not so sure. For one, its really bad when the only way to get credits is by racing or spending actual money. And that brings me to my second point. When you actual do spend your money, the game will say transaction failed because of poor connection even",
+      "sentiment": "negative",
+      "topics": [
+        "gameplay",
+        "bugs"
+      ],
+      "summary": "Игра разочаровывает из-за проблем с кредитами и платежами",
+      "confidence": 0.9,
+      "processed_at": "2026-05-15T14:12:29.985383"
+    },
+    {
+      "row_id": 10,
+      "review": "I played this game a year or two after it's release and it was great but now it's changed for the worse. You used to be able to use bikes in normal campaign which they removed and the new menu interface sucks compared to the old one. The adds used to only be after races now they appear evry 5 minuts",
+      "sentiment": "negative",
+      "topics": [
+        "gameplay",
+        "controls",
+        "other"
+      ],
+      "summary": "Игра стала хуже после обновлений - убрали bikes и добавили рекламу.",
+      "confidence": 0.85,
+      "processed_at": "2026-05-15T14:12:49.326660"
+    },
+    {
+      "row_id": 11,
+      "review": "The graphics are pretty and the controller support is good. Beyond that this game is not worth anyone's time unless you plan on spending massive amounts of real money. Like most \"progress as you go\" race games, you start out with your typical slow beginner car and are supposed to eventually tune it",
+      "sentiment": "negative",
+      "topics": [
+        "graphics",
+        "gameplay",
+        "other"
+      ],
+      "summary": "Игра имеет красивую графику и хорошую поддержку контроллера, но не стоит времени без больших денежных вложений.",
+      "confidence": 0.9,
+      "processed_at": "2026-05-15T14:13:42.023265"
+    },
+    {
+      "row_id": 12,
+      "review": "I love this game, too much maybe. I don't have any problems with it. Some cars are very expensive, but thats expected from a high graphic racing game, especially the best on the appstore (in my opinion.) It'd be nice if there was a way to drive on the levels with no other racers, for practice",
+      "sentiment": "positive",
+      "topics": [
+        "graphics",
+        "gameplay"
+      ],
+      "summary": "Обожаю эту игру, графика отличная, лучшая гонка в AppStore.",
+      "confidence": 0.95,
+      "processed_at": "2026-05-15T14:14:02.360286"
+    },
+    {
+      "row_id": 13,
+      "review": "Its fun, but the difficulty needs re-adjusted. There are so many paths to take it gets confusing. Also, I bought the car pack for $5 and the cars it gave me aren't even good... The D-class starting car is way better than my purchased D-class, and I even tuned the purchased car more. I feel ripped of",
+      "sentiment": "negative",
+      "topics": [
+        "gameplay",
+        "other"
+      ],
+      "summary": "Игра интересная, но сложность запутанная, а платные машины хуже бесплатных",
+      "confidence": 0.85,
+      "processed_at": "2026-05-15T14:14:18.179750"
+    },
+    {
+      "row_id": 14,
+      "review": "It's a cool game and it runs smoothly during races but it takes forever to load the rest of the features like modifications, features, and the downloaded content for the quick races. I have a cheep phone running it, though. I don't even have service and I have to run on free WiFi, so it's may be my problem",
+      "sentiment": "neutral",
+      "topics": [
+        "performance",
+        "other"
+      ],
+      "summary": "Игра крутая и работает плавно во время гонок, но загрузка остальных функций занимает слишком много времени.",
+      "confidence": 0.85,
+      "processed_at": "2026-05-15T14:14:46.180259"
+    },
+    {
+      "row_id": 15,
+      "review": "Great game, though be prepared to set your device down and wait 30 sec after some races in career mode. Watching the ad is optional, but doing so will at least double the credits earned (usually more like 10x or 15x) It is a little bit of a pay-to-win",
+      "sentiment": "positive",
+      "topics": [
+        "gameplay",
+        "other"
+      ],
+      "summary": "Отличная игра, хотя есть элементы pay-to-win",
+      "confidence": 0.85,
+      "processed_at": "2026-05-15T14:17:09.110748"
+    },
+    {
+      "row_id": 16,
+      "review": "This game is is good, Very good I like the graphics and the racing. It also has good handling so you can win the race it is kind of hard at the same time because you crash a lot but it is still the best game. Also it could need some upgrades because like sometimes bugs and stuff like that.",
+      "sentiment": "positive",
+      "topics": [
+        "graphics",
+        "gameplay",
+        "bugs",
+        "controls"
+      ],
+      "summary": "Игра хорошая, графика и геймплей понравились, но есть баги",
+      "confidence": 0.85,
+      "processed_at": "2026-05-15T14:17:21.307659"
+    },
+    {
+      "row_id": 17,
+      "review": "1 of the best racing games I've played on my phone. Great graphics, control's, spectacular sceneries, fabulous cars to drive fast with and do tricks with. Sometimes there is a little bit of a lag with Multi player load screens, and doing the free videos for items. You guys need to bring back the rest",
+      "sentiment": "positive",
+      "topics": [
+        "graphics",
+        "gameplay",
+        "bugs",
+        "performance",
+        "controls"
+      ],
+      "summary": "Отличная гоночная игра с красивой графикой и управлением, но есть небольшие лаги.",
+      "confidence": 0.9,
+      "processed_at": "2026-05-15T14:17:35.039479"
+    },
+    {
+      "row_id": 18,
+      "review": "Asphalt 8 is arcade racing game. It has various maps, modes, cars, and fun gameplay experience. Vehicles fall in different categories depending on what each car can offer. Each vehicle can be upgraded to improve its performance in a race. If you upgraded your vehicles high enough, you can be matched",
+      "sentiment": "positive",
+      "topics": [
+        "gameplay",
+        "other"
+      ],
+      "summary": "Отличная аркадная гонка с разнообразными картами, режимами и машинами",
+      "confidence": 0.95,
+      "processed_at": "2026-05-15T14:17:45.336469"
+    },
+    {
+      "row_id": 19,
+      "review": "Way too many ads. The cars are cool, the races are fun, but the interrupting ads every 60 to 90 seconds are too much. Update: they changed it again. The pro upgrades are now virtually impossible for those who don't pay to play. I don't spend much time playing any more. Update 5/2020: updates take forever",
+      "sentiment": "negative",
+      "topics": [
+        "gameplay",
+        "performance",
+        "other"
+      ],
+      "summary": "Слишком много рекламы и агрессивная монетизация портят удовольствие от игры.",
+      "confidence": 0.9,
+      "processed_at": "2026-05-15T14:18:08.708344"
+    },
+    {
+      "row_id": 20,
+      "review": "This is a perfect balance between pay to win and the complete opposite! The game doesnt force you to need to pay for certain vehicles(although they are expensives). Even then, the game is reliant on your skill and not how fast you go.",
+      "sentiment": "positive",
+      "topics": [
+        "gameplay"
+      ],
+      "summary": "Игра хорошо сбалансирована и требует навыка, а не денег",
+      "confidence": 0.9,
+      "processed_at": "2026-05-15T14:18:30.094035"
+    },
+    {
+      "row_id": 21,
+      "review": "The game itself is well made with nice graphics, controls and a huge variety of cars. Marketing this game as free to play is nothing more than a blatant lie. I have been playing the game with the same car for about a season and a half because saving up enough in game currency for a new car that is a long proces",
+      "sentiment": "negative",
+      "topics": [
+        "graphics",
+        "gameplay",
+        "other"
+      ],
+      "summary": "Хорошая игра, но бесплатной её можно назвать с натяжкой",
+      "confidence": 0.9,
+      "processed_at": "2026-05-15T14:18:42.813143"
+    },
+    {
+      "row_id": 22,
+      "review": "The game has great graphics, and the controls on PC are simple to learn. The game doesn't allow you to advance in career pass 10 stars. When you go to commence the race for the Audi R8 Tron the game silent crashes. Also I would say that a great deal of finance is needed to gain more advanced vehicle",
+      "sentiment": "negative",
+      "topics": [
+        "graphics",
+        "controls",
+        "bugs",
+        "gameplay"
+      ],
+      "summary": "Несмотря на хорошую графику и удобное управление, игра не пускает дальше и вылетает.",
+      "confidence": 0.85,
+      "processed_at": "2026-05-15T14:18:53.220764"
+    },
+    {
+      "row_id": 23,
+      "review": "New multi-player sucks!! I have only won once out of over 5 dozen attempts. Used to win or place 2nd on numerous occasions. The new format makes it impossible. Used to love playing this game...until they added all of the ads that pop up when trying to start a race or navigate to different screens.",
+      "sentiment": "negative",
+      "topics": [
+        "gameplay",
+        "other"
+      ],
+      "summary": "Новый мультиплейер невозможно выиграть, а реклама портит игру.",
+      "confidence": 0.9,
+      "processed_at": "2026-05-15T14:20:21.607184"
+    },
+    {
+      "row_id": 24,
+      "review": "It's a great game, but it glitches many times throughout my experience. For starters, I can only upgrade a feature for a car (Eg: speed, braking) once, before it tells me I need to check my internet connection, although it's working fine.",
+      "sentiment": "negative",
+      "topics": [
+        "bugs",
+        "performance"
+      ],
+      "summary": "Игра отличная, но постоянно глючит с подключением.",
+      "confidence": 0.9,
+      "processed_at": "2026-05-15T14:20:33.468519"
+    },
+    {
+      "row_id": 25,
+      "review": "This was a very cool game but after the Feb. 12 update ruined it. Now the game takes forever to load. After it finally loads, I might be able to play for a very short bit and then the game CRASHES!! It repeatedly crashes when I try to restart the app and now I can't even get into the game!",
+      "sentiment": "negative",
+      "topics": [
+        "bugs",
+        "performance"
+      ],
+      "summary": "Игра была хорошей, но после обновления начала крашиться и не загружается.",
+      "confidence": 0.9,
+      "processed_at": "2026-05-15T14:20:49.248045"
+    },
+    {
+      "row_id": 26,
+      "review": "The graphics are great. Starting the game is confusing and lacks information on how to proceed. So much so that I uninstalled the game before completing the setup....I think. It took me to a screen to subscribe but didn't tell me anything except how many other had subscribed.",
+      "sentiment": "negative",
+      "topics": [
+        "graphics",
+        "other"
+      ],
+      "summary": "Графика хорошая, но игра запутанная и непонятная, нет информации как начать.",
+      "confidence": 0.85,
+      "processed_at": "2026-05-15T14:21:03.543946"
+    },
+    {
+      "row_id": 27,
+      "review": "Awesome game but...I don't know if it's my tablet or the game it's self but it keeps crashing. With it still being a very good game it needs a bit of work, instead of giving decals we should be able to customize the cars to our liking. The music needs to be dated, (I like to listen to good music)",
+      "sentiment": "neutral",
+      "topics": [
+        "bugs",
+        "gameplay",
+        "music"
+      ],
+      "summary": "Игра хорошая, но вылетает, хотелось бы кастомизацию машин и другую музыку.",
+      "confidence": 0.85,
+      "processed_at": "2026-05-15T14:22:33.376074"
+    },
+    {
+      "row_id": 28,
+      "review": "DON'T DO IT. THE GAME IS DEAD. I can't describe how bad it is now and it isn't one of those things where you can still have fun once you get serious. Earnings are down, every good or decent thing takes stupid amounts real money, cars and event progress was reset, and ever car requires wayyy too much",
+      "sentiment": "negative",
+      "topics": [
+        "other"
+      ],
+      "summary": "Игрок предупреждает не играть в игру из-за плохого состояния, низких доходов и дорогих микротранзакций.",
+      "confidence": 0.95,
+      "processed_at": "2026-05-15T14:22:51.806774"
+    },
+    {
+      "row_id": 29,
+      "review": "Yikes I miss the old game. The ads aren't that bad in my opinion because I have seen worse but the true problem is that every single car is insanely overpriced. Some cars are double or triple the amount of credits then they were before. Also the career is unrealistic that you have to get every single car",
+      "sentiment": "negative",
+      "topics": [
+        "gameplay",
+        "other"
+      ],
+      "summary": "Игрок жалуется на завышенные цены на машины и нереалистичную карьеру",
+      "confidence": 0.9,
+      "processed_at": "2026-05-15T14:24:18.389015"
+    },
+    {
+      "row_id": 30,
+      "review": "A well rounded racing game. The controls are simple, the races are fun. And for a mobile game, this has some of the best graphics I have seen in a long time. four stars only because of some bugs that cause my car to freeze during a multiplayer race. Which is extrememly annoying",
+      "sentiment": "positive",
+      "topics": [
+        "graphics",
+        "gameplay",
+        "controls",
+        "bugs"
+      ],
+      "summary": "Отличная гоночная игра с хорошей графикой, но есть баги",
+      "confidence": 0.9,
+      "processed_at": "2026-05-15T14:24:40.917893"
+    },
+    {
+      "row_id": 31,
+      "review": "This is probably the best free racing game on the play store. I would even say it's better than most payed racing games. The controls are great with a large selection of styles to pick from, the graphics are stunning for mobile, and it runs really well for how good it looks. Only downside is that progres takes too long",
+      "sentiment": "positive",
+      "topics": [
+        "graphics",
+        "gameplay",
+        "controls",
+        "performance"
+      ],
+      "summary": "Лучшая бесплатная гоночная игра с отличной графикой и управлением.",
+      "confidence": 0.9,
+      "processed_at": "2026-05-15T14:25:04.371489"
+    },
+    {
+      "row_id": 32,
+      "review": "Good racing game, fast paced & exciting. The cars are spot on for a game. More than enough to do, events, daily specials, select car races, multiplayer etc. Get to paint the car or do graphics, tuning in 4 areas & a pro mode tuning. Never the less, A few weeks into the game and without spending real",
+      "sentiment": "positive",
+      "topics": [
+        "gameplay",
+        "other"
+      ],
+      "summary": "Отличная гоночная игра с большим количеством контента и возможностей для настройки",
+      "confidence": 0.95,
+      "processed_at": "2026-05-15T14:25:33.521526"
+    },
+    {
+      "row_id": 33,
+      "review": "Cars, good. Play, good. Graphics, good. Sound effects, good. Upgrades were strange/unrealistic (16 tires for a tire upgrade, you only have 4 wheels.) 2 yrs. ago, but I dealt with it, part of getting your money.",
+      "sentiment": "positive",
+      "topics": [
+        "graphics",
+        "gameplay",
+        "other"
+      ],
+      "summary": "Игра хорошая, графика и геймплей на высоте, но апгрейды нереалистичные",
+      "confidence": 0.9,
+      "processed_at": "2026-05-15T14:25:52.610039"
+    },
+    {
+      "row_id": 34,
+      "review": "Such a fun game, but it has so many problems. I use manual acceleration, and the touch zones for the buttons are so small and completely unadjustable that its impossible to get through a race without the game thinking you lifted off the throttle. Also, the controls don't show up until the race actualy begins",
+      "sentiment": "negative",
+      "topics": [
+        "controls",
+        "bugs",
+        "gameplay"
+      ],
+      "summary": "Игра веселая, но проблемы с управлением портят впечатление",
+      "confidence": 0.85,
+      "processed_at": "2026-05-15T14:26:37.723899"
+    },
+    {
+      "row_id": 35,
+      "review": "Insanely great game. The controls for laptop are super easy to use, and are positioned so there is no scrambling and wrong button pushing cuz the keys are so close together. The graphics are one of the best on Google Play. There is no shortage of content. My few complaints are some technical issues.",
+      "sentiment": "positive",
+      "topics": [
+        "graphics",
+        "controls",
+        "bugs"
+      ],
+      "summary": "Отличная игра с удобным управлением и красивой графикой",
+      "confidence": 0.9,
+      "processed_at": "2026-05-15T14:27:03.906656"
+    },
+    {
+      "row_id": 36,
+      "review": "Really great game. Few things I don't like, is that I wish you could convert tokens into credits, and credits into parts, due to how little credits you earn. I also wish that the cars would do barrel rolls, only when possible. Last thing is I wish that the physics are more realistic",
+      "sentiment": "positive",
+      "topics": [
+        "gameplay"
+      ],
+      "summary": "Отличная игра, но хотелось бы улучшений в геймплее.",
+      "confidence": 0.8,
+      "processed_at": "2026-05-15T14:27:35.173531"
+    },
+    {
+      "row_id": 37,
+      "review": "I have been playing and enjoying this game for many years. I have rarely had any problems with this game running on my Samsung S3 tablet. It runs well even at the highest graphics setting. After yesterday's updates however, the game continuously crashes every time that I make any changes in the settings",
+      "sentiment": "neutral",
+      "topics": [
+        "performance",
+        "bugs",
+        "graphics"
+      ],
+      "summary": "Игра работала отлично годами, но после обновления вылетает при изменении настроек.",
+      "confidence": 0.9,
+      "processed_at": "2026-05-15T14:29:53.673169"
+    },
+    {
+      "row_id": 38,
+      "review": "This is the best free racing game you'll find on the play store at the moment. The graphics are absolutely great, which means you'll need a high end device to play it comfortably. The gameplay is good, but rehashed from asphalt 8 with very few changes. People complain but the P2W aspect isn't as bad",
+      "sentiment": "positive",
+      "topics": [
+        "graphics",
+        "gameplay",
+        "performance",
+        "other"
+      ],
+      "summary": "Лучшая бесплатная гоночная игра с отличной графикой и геймплеем",
+      "confidence": 0.9,
+      "processed_at": "2026-05-15T14:30:07.550409"
+    },
+    {
+      "row_id": 39,
+      "review": "I used to play this game when i was smaller and i loved it. Everything was so much easier, the races, getting credits, buying cars. It was all so much better but the game is still good, it needs to be fixed a small bit just so i dont always have to pay for everything",
+      "sentiment": "positive",
+      "topics": [
+        "gameplay",
+        "other"
+      ],
+      "summary": "Ностальгический отзыв с похвалой простоте игры и упоминанием проблем с оплатой",
+      "confidence": 0.8,
+      "processed_at": "2026-05-15T14:30:40.038771"
+    },
+    {
+      "row_id": 40,
+      "review": "I love this game! The graphics, the cars, the different types of races, everything is amazing! The only two things I dislike are: So many cars you have pay real money to get, and that after a race it doesn't show you how many coins you got unless you don't want to retry. I really dislike that last thing",
+      "sentiment": "positive",
+      "topics": [
+        "graphics",
+        "gameplay",
+        "other"
+      ],
+      "summary": "Отличная игра с графикой и машинами, но раздражают платные авто и отсутствие отображения монет после гонки",
+      "confidence": 0.9,
+      "processed_at": "2026-05-15T14:31:02.267539"
+    },
+    {
+      "row_id": 41,
+      "review": "The graphics are amazing, and the detail is on point, but what the heck is wrong with the controls?? Every time i steer in a direction, i have no control over the steering. Meaning i cant stop myself from getting into a wreck. Please fix this. Edit: Nevermind, all i had to do was reinstall the app!",
+      "sentiment": "neutral",
+      "topics": [
+        "graphics",
+        "controls",
+        "bugs"
+      ],
+      "summary": "Графика хорошая, проблема с управлением решилась переустановкой",
+      "confidence": 0.8,
+      "processed_at": "2026-05-15T14:31:23.580307"
+    },
+    {
+      "row_id": 42,
+      "review": "I used to play this game so much. I got a ton of the expensive cars. I had a ton a fun. But years went by and I couldn't get the account on my old tablet to my first phone. No problem. I thought I would just start playing a ton again. The game is much different. Too many ads.",
+      "sentiment": "negative",
+      "topics": [
+        "other"
+      ],
+      "summary": "Раньше игра была веселее, сейчас слишком много рекламы",
+      "confidence": 0.85,
+      "processed_at": "2026-05-15T14:32:17.836567"
+    },
+    {
+      "row_id": 43,
+      "review": "It designed very poorly. The obvious focus was on graphics and as a result The tracks are terribly laid out, the events are not well planned and the overall feel of the game is that the designers didn't care about their project, just the graphics. There are cars where there shouldn't be any",
+      "sentiment": "negative",
+      "topics": [
+        "graphics",
+        "gameplay"
+      ],
+      "summary": "Игра плохо спроектирована, трассы и события не продуманы",
+      "confidence": 0.9,
+      "processed_at": "2026-05-15T14:32:39.694452"
+    },
+    {
+      "row_id": 44,
+      "review": "Altho, this game is gr8, in steering n keeping it steady. Its almost similar to Asphalt 9. The upgrade boxes isn't that easy to get, n boxes go for 10000 coins, or u can win them boxes during some missions or if u get promoted to the next level.",
+      "sentiment": "positive",
+      "topics": [
+        "gameplay"
+      ],
+      "summary": "Игра хорошая, особенно управление, но улучшения сложно получить.",
+      "confidence": 0.85,
+      "processed_at": "2026-05-15T14:33:00.601402"
+    },
+    {
+      "row_id": 45,
+      "review": "It's a cool racing game but it still is necessary to buy stuff to complete. Not all have money to spend and just to play a game. But it does have very good graphics and easy gameplay. If you do not pay them $$$ tgen you will mysteriously wreck. I was in first and all of a sudden I wrecked.",
+      "sentiment": "negative",
+      "topics": [
+        "graphics",
+        "gameplay",
+        "bugs"
+      ],
+      "summary": "Хорошая графика и удобное управление, но раздражает pay-to-win механика с подозрительными авариями.",
+      "confidence": 0.85,
+      "processed_at": "2026-05-15T14:33:13.850535"
+    },
+    {
+      "row_id": 46,
+      "review": "One of the best racing games thus far. A lotta fun with many races and challenges as well as many sports, muscles and exotic road cars to choose, the controls takes a bit of getting use but I like the fact that you can actually drift around the corners and bens if you time it just right",
+      "sentiment": "positive",
+      "topics": [
+        "gameplay",
+        "controls"
+      ],
+      "summary": "Отличная гоночная игра с большим выбором машин и увлекательным геймплеем",
+      "confidence": 0.9,
+      "processed_at": "2026-05-15T14:34:03.448599"
+    },
+    {
+      "row_id": 47,
+      "review": "Yes, this IS the racing game you should download! Its compact, offline (online optional), and an adrenaline rush! I've been playing Nitro for years now. Of all the games on my phone and tablets over the years, this game has remained the longest.",
+      "sentiment": "positive",
+      "topics": [
+        "gameplay"
+      ],
+      "summary": "Отличная гоночная игра с адреналином, рекомендую",
+      "confidence": 0.95,
+      "processed_at": "2026-05-15T14:37:10.751090"
+    },
+    {
+      "row_id": 48,
+      "review": "I have had an amazing experience with this game. I love that it is so similar to the Asphalt series, and that the graphics are still so great for the cars. If you love asphalt, but don't have the storage space, this game is definitely for you. One minor issue, though: I feel like the catch mode is bad",
+      "sentiment": "positive",
+      "topics": [
+        "graphics",
+        "gameplay",
+        "bugs"
+      ],
+      "summary": "Очень понравилась игра, графика на высоте, рекомендую",
+      "confidence": 0.9,
+      "processed_at": "2026-05-15T14:38:17.562837"
+    },
+    {
+      "row_id": 49,
+      "review": "Peace!!!! I can't say just how much I'm liking this game, however; I will say this: I am excited about it. This one is awesome when it comes to having a little fun time.... The graphics and background is just fantastic. And may I say the Steering seems to be a whole lot easier.",
+      "sentiment": "positive",
+      "topics": [
+        "graphics",
+        "gameplay",
+        "controls"
+      ],
+      "summary": "Игра отличная, графика фантастическая, управление стало удобнее.",
+      "confidence": 0.95,
+      "processed_at": "2026-05-15T14:39:06.207179"
+    },
+    {
+      "row_id": 50,
+      "review": "My first Asphalt experience is Asphalt 8. This game was made before that one so the quality is not as good, less graphical fidelity and harder to do barrel rolls. But the foundation of a fun Asphalt game is still here. It controls well and there is a lot of content. But after a while it gets boring",
+      "sentiment": "neutral",
+      "topics": [
+        "graphics",
+        "gameplay",
+        "controls"
+      ],
+      "summary": "Хорошая основа серии с удобным управлением, но графика слабее и надоедает",
+      "confidence": 0.85,
+      "processed_at": "2026-05-15T14:39:26.449977"
+    },
+    {
+      "row_id": 51,
+      "review": "I would give it a 4 star beacause mostly the gameplay is cool and the fact that you can bump into stuff. The graphics are amazing and you can change the angle of the camera. But because is a lot of the cars cost money and theres not that much cars that dont actually cost real money.",
+      "sentiment": "positive",
+      "topics": [
+        "gameplay",
+        "graphics",
+        "other"
+      ],
+      "summary": "Геймплей и графика хорошие, но много платных машин",
+      "confidence": 0.85,
+      "processed_at": "2026-05-15T14:39:46.063274"
+    },
+    {
+      "row_id": 52,
+      "review": "The game is good but the uprades takes me half a year to fully upgraded it. Coz the kit boxes that you buy is exceeded only for. 1 purchase. And that's how your game irretates me. While facing online I encounter with some upgraded cars and I'm always left coz they're car is just too fast.",
+      "sentiment": "negative",
+      "topics": [
+        "gameplay",
+        "other"
+      ],
+      "summary": "Игрок жалуется на слишком долгую систему прокачки и несправедливость в онлайн-матчах",
+      "confidence": 0.85,
+      "processed_at": "2026-05-15T14:42:33.558155"
+    },
+    {
+      "row_id": 53,
+      "review": "What is happening with this game Gameloft I'm very disappointed with this game's performance. When I play it offline then it's running smoothly but when I play it online then it's starting shut down automatically. Why this is happening fix this bug immediately I'm very dissatisfied.",
+      "sentiment": "negative",
+      "topics": [
+        "performance",
+        "bugs"
+      ],
+      "summary": "Игрок жалуется на вылеты при онлайн-игре и требует исправления бага",
+      "confidence": 0.95,
+      "processed_at": "2026-05-15T14:42:48.096672"
+    },
+    {
+      "row_id": 54,
+      "review": "The game is fun and the graphics are amazing but the thing that does not make sense in the game is that in some levels you have to buy car before you can play that level.and in the setting if you want to change the control of the car to steering if you want to turn the car normally goes opposite.",
+      "sentiment": "neutral",
+      "topics": [
+        "graphics",
+        "gameplay",
+        "controls"
+      ],
+      "summary": "Игра интересная, но есть проблемы с управлением",
+      "confidence": 0.85,
+      "processed_at": "2026-05-15T14:43:28.333726"
+    },
+    {
+      "row_id": 55,
+      "review": "This is a great game and I diffentley recommend it ð.It has good gameplay,but please make the graphics a bit better like the graphics in aspalt 8. I used to have aspalt 8 but deleted it beacuse it would force the player to use real money I am not spending R100,00 for some stubid tokens this game",
+      "sentiment": "positive",
+      "topics": [
+        "graphics",
+        "gameplay",
+        "other"
+      ],
+      "summary": "Отличная игра с хорошим геймплеем, но графику стоит улучшить.",
+      "confidence": 0.9,
+      "processed_at": "2026-05-15T14:44:01.739399"
+    },
+    {
+      "row_id": 56,
+      "review": "The game is great.it has good graphics forits size.but it needs new maps and new levels and you should remove the specific requirements for completing the level like buying some particular car.and you should be able to customize your car and you should also make the upgrades more easy because we can",
+      "sentiment": "positive",
+      "topics": [
+        "graphics",
+        "gameplay",
+        "other"
+      ],
+      "summary": "Игра хорошая с красивой графикой, но нужны новые карты, уровни и упрощение прогресса.",
+      "confidence": 0.9,
+      "processed_at": "2026-05-15T14:44:21.313146"
+    },
+    {
+      "row_id": 57,
+      "review": "This is the best racing game ever.Please add more new cars,new race locations, new racing tracks.Please make the graphics more realistic and more beautiful. Sometimes this game gonna closed. Please fix this problem and make this game super fast and smoothly controlled.",
+      "sentiment": "positive",
+      "topics": [
+        "graphics",
+        "gameplay",
+        "bugs",
+        "performance",
+        "other"
+      ],
+      "summary": "Игрок называет игру лучшей гонкой и просит добавить контент, улучшить графику и исправить вылеты",
+      "confidence": 0.85,
+      "processed_at": "2026-05-15T14:44:55.899800"
+    },
+    {
+      "row_id": 58,
+      "review": "There is also some problem involved with the ads. If I click to watch an add to double my rewards, they say I have no internet connection. But when I'm about to start a new race the stupid 20 second long add pops out. What is up with that.",
+      "sentiment": "negative",
+      "topics": [
+        "bugs",
+        "other"
+      ],
+      "summary": "Игрок жалуется на проблемы с рекламой - не работает функция просмотра для удвоения наград.",
+      "confidence": 0.9,
+      "processed_at": "2026-05-15T14:46:13.013857"
+    }
+  ]
+}
